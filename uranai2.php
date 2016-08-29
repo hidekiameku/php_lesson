@@ -24,4 +24,5 @@ if ($_GET["age"] >= 50 || $_GET["age"] < 10 ) {
   $num = 1;
 }
 
+
 echo "$uranai_message[$num]";
